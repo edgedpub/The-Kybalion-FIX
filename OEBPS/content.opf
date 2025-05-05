@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="generator" content="Adobe InDesign 18.5"/>
+    <meta name="cover" content="x1.png"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>The Kybalion. Hermetic Philosphy.</dc:title>
+    <dc:creator>Daniele Giampà</dc:creator>
+    <dc:subject>The Kybalion. Hermetic Philosphy.</dc:subject>
+    <dc:description>The Kybalion. Hermetic Philosphy.</dc:description>
+    <dc:date>2022-01</dc:date>
+    <dc:rights>Public domain</dc:rights>
+    <dc:language>en-GB</dc:language>
+    <meta property="dcterms:modified">2024-07-07T15:32:14Z</meta>
+    <dc:identifier id="bookid">urn:uuid:3E4985B4-A0C2-427A-91F9-47936F38B6A8</dc:identifier>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">landscape</meta>
+    <meta property="rendition:spread">both</meta>
+    <meta name="Sigil version" content="2.2.0"/>
+  </metadata>
+  <manifest>
+    <item id="Kybalion-1" href="Kybalion-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-2" href="Kybalion-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-3" href="Kybalion-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-4" href="Kybalion-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-5" href="Kybalion-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-6" href="Kybalion-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-7" href="Kybalion-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-8" href="Kybalion-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-9" href="Kybalion-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-10" href="Kybalion-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-11" href="Kybalion-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-12" href="Kybalion-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-13" href="Kybalion-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-14" href="Kybalion-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-15" href="Kybalion-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-16" href="Kybalion-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-17" href="Kybalion-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-18" href="Kybalion-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-19" href="Kybalion-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-20" href="Kybalion-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-21" href="Kybalion-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-22" href="Kybalion-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-23" href="Kybalion-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-24" href="Kybalion-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-25" href="Kybalion-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-26" href="Kybalion-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-27" href="Kybalion-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-28" href="Kybalion-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-29" href="Kybalion-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-30" href="Kybalion-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-31" href="Kybalion-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-32" href="Kybalion-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-33" href="Kybalion-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-34" href="Kybalion-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-35" href="Kybalion-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-36" href="Kybalion-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-37" href="Kybalion-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-38" href="Kybalion-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-39" href="Kybalion-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-40" href="Kybalion-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-41" href="Kybalion-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-42" href="Kybalion-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-43" href="Kybalion-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-44" href="Kybalion-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-45" href="Kybalion-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-46" href="Kybalion-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-47" href="Kybalion-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-48" href="Kybalion-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-49" href="Kybalion-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-50" href="Kybalion-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-51" href="Kybalion-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-52" href="Kybalion-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-53" href="Kybalion-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-54" href="Kybalion-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-55" href="Kybalion-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-56" href="Kybalion-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-57" href="Kybalion-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-58" href="Kybalion-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-59" href="Kybalion-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-60" href="Kybalion-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-61" href="Kybalion-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-62" href="Kybalion-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-63" href="Kybalion-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-64" href="Kybalion-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-65" href="Kybalion-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-66" href="Kybalion-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-67" href="Kybalion-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-68" href="Kybalion-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-69" href="Kybalion-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-70" href="Kybalion-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-71" href="Kybalion-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-72" href="Kybalion-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-73" href="Kybalion-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-74" href="Kybalion-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-75" href="Kybalion-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-76" href="Kybalion-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-77" href="Kybalion-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-78" href="Kybalion-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-79" href="Kybalion-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-80" href="Kybalion-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-81" href="Kybalion-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-82" href="Kybalion-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-83" href="Kybalion-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-84" href="Kybalion-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-85" href="Kybalion-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-86" href="Kybalion-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-87" href="Kybalion-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-88" href="Kybalion-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-89" href="Kybalion-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-90" href="Kybalion-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-91" href="Kybalion-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion-92" href="Kybalion-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="Times-Bold.ttc" href="font/Times-Bold.ttc" media-type="application/x-font-ttf"/>
+    <item id="TimesNewRomanPS-BoldMT.ttf" href="font/TimesNewRomanPS-BoldMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="TimesNewRomanPS-ItalicMT.ttf" href="font/TimesNewRomanPS-ItalicMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="TimesNewRomanPSMT.ttf" href="font/TimesNewRomanPSMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image"/>
+    <item id="x2.png" href="image/2.png" media-type="image/png"/>
+    <item id="x3.png" href="image/3.png" media-type="image/png"/>
+    <item id="x4.png" href="image/4.png" media-type="image/png"/>
+    <item id="x12.png" href="image/12.png" media-type="image/png"/>
+    <item id="x31.png" href="image/31.png" media-type="image/png"/>
+    <item id="x41.png" href="image/41.png" media-type="image/png"/>
+    <item id="x70.png" href="image/70.png" media-type="image/png"/>
+    <item id="x93.png" href="image/93.png" media-type="image/png"/>
+    <item id="x99.png" href="image/99.png" media-type="image/png"/>
+    <item id="x120.png" href="image/120.png" media-type="image/png"/>
+    <item id="x129.png" href="image/129.png" media-type="image/png"/>
+    <item id="x133.png" href="image/133.png" media-type="image/png"/>
+    <item id="x151.png" href="image/151.png" media-type="image/png"/>
+    <item id="x165.png" href="image/165.png" media-type="image/png"/>
+    <item id="x177.png" href="image/177.png" media-type="image/png"/>
+    <item id="x200.png" href="image/200.png" media-type="image/png"/>
+    <item id="kybalion_symbol.png" href="image/kybalion_symbol.png" media-type="image/png"/>
+    <item id="Style0001.css" href="css/sgc-toc.css" media-type="text/css"/>
+    <item id="summary.xhtml" href="summary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kybalion-1" properties="page-spread-right"/>
+    <itemref idref="toc"/>
+    <itemref idref="summary.xhtml"/>
+    <itemref idref="Kybalion-2" properties="page-spread-left"/>
+    <itemref idref="Kybalion-3" properties="page-spread-right"/>
+    <itemref idref="Kybalion-4" properties="page-spread-left"/>
+    <itemref idref="Kybalion-5" properties="page-spread-right"/>
+    <itemref idref="Kybalion-6" properties="page-spread-left"/>
+    <itemref idref="Kybalion-7" properties="page-spread-right"/>
+    <itemref idref="Kybalion-8" properties="page-spread-left"/>
+    <itemref idref="Kybalion-9" properties="page-spread-right"/>
+    <itemref idref="Kybalion-10" properties="page-spread-left"/>
+    <itemref idref="Kybalion-11" properties="page-spread-right"/>
+    <itemref idref="Kybalion-12" properties="page-spread-left"/>
+    <itemref idref="Kybalion-13" properties="page-spread-right"/>
+    <itemref idref="Kybalion-14" properties="page-spread-left"/>
+    <itemref idref="Kybalion-15" properties="page-spread-right"/>
+    <itemref idref="Kybalion-16" properties="page-spread-left"/>
+    <itemref idref="Kybalion-17" properties="page-spread-right"/>
+    <itemref idref="Kybalion-18" properties="page-spread-left"/>
+    <itemref idref="Kybalion-19" properties="page-spread-right"/>
+    <itemref idref="Kybalion-20" properties="page-spread-left"/>
+    <itemref idref="Kybalion-21" properties="page-spread-right"/>
+    <itemref idref="Kybalion-22" properties="page-spread-left"/>
+    <itemref idref="Kybalion-23" properties="page-spread-right"/>
+    <itemref idref="Kybalion-24" properties="page-spread-left"/>
+    <itemref idref="Kybalion-25" properties="page-spread-right"/>
+    <itemref idref="Kybalion-26" properties="page-spread-left"/>
+    <itemref idref="Kybalion-27" properties="page-spread-right"/>
+    <itemref idref="Kybalion-28" properties="page-spread-left"/>
+    <itemref idref="Kybalion-29" properties="page-spread-right"/>
+    <itemref idref="Kybalion-30" properties="page-spread-left"/>
+    <itemref idref="Kybalion-31" properties="page-spread-right"/>
+    <itemref idref="Kybalion-32" properties="page-spread-left"/>
+    <itemref idref="Kybalion-33" properties="page-spread-right"/>
+    <itemref idref="Kybalion-34" properties="page-spread-left"/>
+    <itemref idref="Kybalion-35" properties="page-spread-right"/>
+    <itemref idref="Kybalion-36" properties="page-spread-left"/>
+    <itemref idref="Kybalion-37" properties="page-spread-right"/>
+    <itemref idref="Kybalion-38" properties="page-spread-left"/>
+    <itemref idref="Kybalion-39" properties="page-spread-right"/>
+    <itemref idref="Kybalion-40" properties="page-spread-left"/>
+    <itemref idref="Kybalion-41" properties="page-spread-right"/>
+    <itemref idref="Kybalion-42" properties="page-spread-left"/>
+    <itemref idref="Kybalion-43" properties="page-spread-right"/>
+    <itemref idref="Kybalion-44" properties="page-spread-left"/>
+    <itemref idref="Kybalion-45" properties="page-spread-right"/>
+    <itemref idref="Kybalion-46" properties="page-spread-left"/>
+    <itemref idref="Kybalion-47" properties="page-spread-right"/>
+    <itemref idref="Kybalion-48" properties="page-spread-left"/>
+    <itemref idref="Kybalion-49" properties="page-spread-right"/>
+    <itemref idref="Kybalion-50" properties="page-spread-left"/>
+    <itemref idref="Kybalion-51" properties="page-spread-right"/>
+    <itemref idref="Kybalion-52" properties="page-spread-left"/>
+    <itemref idref="Kybalion-53" properties="page-spread-right"/>
+    <itemref idref="Kybalion-54" properties="page-spread-left"/>
+    <itemref idref="Kybalion-55" properties="page-spread-right"/>
+    <itemref idref="Kybalion-56" properties="page-spread-left"/>
+    <itemref idref="Kybalion-57" properties="page-spread-right"/>
+    <itemref idref="Kybalion-58" properties="page-spread-left"/>
+    <itemref idref="Kybalion-59" properties="page-spread-right"/>
+    <itemref idref="Kybalion-60" properties="page-spread-left"/>
+    <itemref idref="Kybalion-61" properties="page-spread-right"/>
+    <itemref idref="Kybalion-62" properties="page-spread-left"/>
+    <itemref idref="Kybalion-63" properties="page-spread-right"/>
+    <itemref idref="Kybalion-64" properties="page-spread-left"/>
+    <itemref idref="Kybalion-65" properties="page-spread-right"/>
+    <itemref idref="Kybalion-66" properties="page-spread-left"/>
+    <itemref idref="Kybalion-67" properties="page-spread-right"/>
+    <itemref idref="Kybalion-68" properties="page-spread-left"/>
+    <itemref idref="Kybalion-69" properties="page-spread-right"/>
+    <itemref idref="Kybalion-70" properties="page-spread-left"/>
+    <itemref idref="Kybalion-71" properties="page-spread-right"/>
+    <itemref idref="Kybalion-72" properties="page-spread-left"/>
+    <itemref idref="Kybalion-73" properties="page-spread-right"/>
+    <itemref idref="Kybalion-74" properties="page-spread-left"/>
+    <itemref idref="Kybalion-75" properties="page-spread-right"/>
+    <itemref idref="Kybalion-76" properties="page-spread-left"/>
+    <itemref idref="Kybalion-77" properties="page-spread-right"/>
+    <itemref idref="Kybalion-78" properties="page-spread-left"/>
+    <itemref idref="Kybalion-79" properties="page-spread-right"/>
+    <itemref idref="Kybalion-80" properties="page-spread-left"/>
+    <itemref idref="Kybalion-81" properties="page-spread-right"/>
+    <itemref idref="Kybalion-82" properties="page-spread-left"/>
+    <itemref idref="Kybalion-83" properties="page-spread-right"/>
+    <itemref idref="Kybalion-84" properties="page-spread-left"/>
+    <itemref idref="Kybalion-85" properties="page-spread-right"/>
+    <itemref idref="Kybalion-86" properties="page-spread-left"/>
+    <itemref idref="Kybalion-87" properties="page-spread-right"/>
+    <itemref idref="Kybalion-88" properties="page-spread-left"/>
+    <itemref idref="Kybalion-89" properties="page-spread-right"/>
+    <itemref idref="Kybalion-90" properties="page-spread-left"/>
+    <itemref idref="Kybalion-91" properties="page-spread-right"/>
+    <itemref idref="Kybalion-92" properties="page-spread-left"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="summary.xhtml"/>
+    <reference type="cover" title="Cover" href="Kybalion-1.xhtml"/>
+  </guide>
+</package>
