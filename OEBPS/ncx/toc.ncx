@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:3E4985B4-A0C2-427A-91F9-47936F38B6A8" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="92" />
+    <meta name="dtb:maxPageNumber" content="92" />
+  </head>
+<docTitle>
+  <text>The Kybalion. Hermetic Philosphy.</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>Table of Contents</text>
+    </navLabel>
+    <content src="../Kybalion-2.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>Introduction</text>
+    </navLabel>
+    <content src="../Kybalion-4.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint3">
+    <navLabel>
+      <text>1 The Hermetic Philosophy</text>
+    </navLabel>
+    <content src="../Kybalion-7.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint4">
+    <navLabel>
+      <text>2 The Seven Hermetic Principles</text>
+    </navLabel>
+    <content src="../Kybalion-11.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint5">
+    <navLabel>
+      <text>3 Mental Transumation</text>
+    </navLabel>
+    <content src="../Kybalion-20.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint6">
+    <navLabel>
+      <text>4 The All</text>
+    </navLabel>
+    <content src="../Kybalion-24.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint7">
+    <navLabel>
+      <text>5 The Mental Universe</text>
+    </navLabel>
+    <content src="../Kybalion-29.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint8">
+    <navLabel>
+      <text>6 The Divine Paradox</text>
+    </navLabel>
+    <content src="../Kybalion-34.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint9">
+    <navLabel>
+      <text>7 "The All" in All</text>
+    </navLabel>
+    <content src="../Kybalion-41.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint10">
+    <navLabel>
+      <text>8 The Planes of Corresondence</text>
+    </navLabel>
+    <content src="../Kybalion-48.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint11">
+    <navLabel>
+      <text>9 Vibration</text>
+    </navLabel>
+    <content src="../Kybalion-58.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint12">
+    <navLabel>
+      <text>10 Polarity</text>
+    </navLabel>
+    <content src="../Kybalion-63.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint13">
+    <navLabel>
+      <text>11 Rythm</text>
+    </navLabel>
+    <content src="../Kybalion-67.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint14">
+    <navLabel>
+      <text>12 Causation</text>
+    </navLabel>
+    <content src="../Kybalion-72.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint15">
+    <navLabel>
+      <text>13 Gender</text>
+    </navLabel>
+    <content src="../Kybalion-77.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint16">
+    <navLabel>
+      <text>14 Mental Gender</text>
+    </navLabel>
+    <content src="../Kybalion-81.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint17">
+    <navLabel>
+      <text>15 Hermetic Axioms</text>
+    </navLabel>
+    <content src="../Kybalion-88.xhtml" />
+  </navPoint>
+</navMap>
+<pageList>
+  <pageTarget id="navPoint18" type="normal" value="1">
+    <navLabel><text>1</text></navLabel>
+    <content src="../Kybalion-1.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint19" type="normal" value="2">
+    <navLabel><text>2</text></navLabel>
+    <content src="../Kybalion-2.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint20" type="normal" value="3">
+    <navLabel><text>3</text></navLabel>
+    <content src="../Kybalion-3.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint21" type="normal" value="4">
+    <navLabel><text>4</text></navLabel>
+    <content src="../Kybalion-4.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint22" type="normal" value="5">
+    <navLabel><text>5</text></navLabel>
+    <content src="../Kybalion-5.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint23" type="normal" value="6">
+    <navLabel><text>6</text></navLabel>
+    <content src="../Kybalion-6.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint24" type="normal" value="7">
+    <navLabel><text>7</text></navLabel>
+    <content src="../Kybalion-7.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint25" type="normal" value="8">
+    <navLabel><text>8</text></navLabel>
+    <content src="../Kybalion-8.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint26" type="normal" value="9">
+    <navLabel><text>9</text></navLabel>
+    <content src="../Kybalion-9.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint27" type="normal" value="10">
+    <navLabel><text>10</text></navLabel>
+    <content src="../Kybalion-10.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint28" type="normal" value="11">
+    <navLabel><text>11</text></navLabel>
+    <content src="../Kybalion-11.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint29" type="normal" value="12">
+    <navLabel><text>12</text></navLabel>
+    <content src="../Kybalion-12.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint30" type="normal" value="13">
+    <navLabel><text>13</text></navLabel>
+    <content src="../Kybalion-13.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint31" type="normal" value="14">
+    <navLabel><text>14</text></navLabel>
+    <content src="../Kybalion-14.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint32" type="normal" value="15">
+    <navLabel><text>15</text></navLabel>
+    <content src="../Kybalion-15.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint33" type="normal" value="16">
+    <navLabel><text>16</text></navLabel>
+    <content src="../Kybalion-16.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint34" type="normal" value="17">
+    <navLabel><text>17</text></navLabel>
+    <content src="../Kybalion-17.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint35" type="normal" value="18">
+    <navLabel><text>18</text></navLabel>
+    <content src="../Kybalion-18.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint36" type="normal" value="19">
+    <navLabel><text>19</text></navLabel>
+    <content src="../Kybalion-19.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint37" type="normal" value="20">
+    <navLabel><text>20</text></navLabel>
+    <content src="../Kybalion-20.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint38" type="normal" value="21">
+    <navLabel><text>21</text></navLabel>
+    <content src="../Kybalion-21.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint39" type="normal" value="22">
+    <navLabel><text>22</text></navLabel>
+    <content src="../Kybalion-22.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint40" type="normal" value="23">
+    <navLabel><text>23</text></navLabel>
+    <content src="../Kybalion-23.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint41" type="normal" value="24">
+    <navLabel><text>24</text></navLabel>
+    <content src="../Kybalion-24.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint42" type="normal" value="25">
+    <navLabel><text>25</text></navLabel>
+    <content src="../Kybalion-25.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint43" type="normal" value="26">
+    <navLabel><text>26</text></navLabel>
+    <content src="../Kybalion-26.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint44" type="normal" value="27">
+    <navLabel><text>27</text></navLabel>
+    <content src="../Kybalion-27.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint45" type="normal" value="28">
+    <navLabel><text>28</text></navLabel>
+    <content src="../Kybalion-28.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint46" type="normal" value="29">
+    <navLabel><text>29</text></navLabel>
+    <content src="../Kybalion-29.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint47" type="normal" value="30">
+    <navLabel><text>30</text></navLabel>
+    <content src="../Kybalion-30.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint48" type="normal" value="31">
+    <navLabel><text>31</text></navLabel>
+    <content src="../Kybalion-31.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint49" type="normal" value="32">
+    <navLabel><text>32</text></navLabel>
+    <content src="../Kybalion-32.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint50" type="normal" value="33">
+    <navLabel><text>33</text></navLabel>
+    <content src="../Kybalion-33.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint51" type="normal" value="34">
+    <navLabel><text>34</text></navLabel>
+    <content src="../Kybalion-34.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint52" type="normal" value="35">
+    <navLabel><text>35</text></navLabel>
+    <content src="../Kybalion-35.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint53" type="normal" value="36">
+    <navLabel><text>36</text></navLabel>
+    <content src="../Kybalion-36.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint54" type="normal" value="37">
+    <navLabel><text>37</text></navLabel>
+    <content src="../Kybalion-37.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint55" type="normal" value="38">
+    <navLabel><text>38</text></navLabel>
+    <content src="../Kybalion-38.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint56" type="normal" value="39">
+    <navLabel><text>39</text></navLabel>
+    <content src="../Kybalion-39.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint57" type="normal" value="40">
+    <navLabel><text>40</text></navLabel>
+    <content src="../Kybalion-40.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint58" type="normal" value="41">
+    <navLabel><text>41</text></navLabel>
+    <content src="../Kybalion-41.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint59" type="normal" value="42">
+    <navLabel><text>42</text></navLabel>
+    <content src="../Kybalion-42.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint60" type="normal" value="43">
+    <navLabel><text>43</text></navLabel>
+    <content src="../Kybalion-43.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint61" type="normal" value="44">
+    <navLabel><text>44</text></navLabel>
+    <content src="../Kybalion-44.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint62" type="normal" value="45">
+    <navLabel><text>45</text></navLabel>
+    <content src="../Kybalion-45.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint63" type="normal" value="46">
+    <navLabel><text>46</text></navLabel>
+    <content src="../Kybalion-46.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint64" type="normal" value="47">
+    <navLabel><text>47</text></navLabel>
+    <content src="../Kybalion-47.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint65" type="normal" value="48">
+    <navLabel><text>48</text></navLabel>
+    <content src="../Kybalion-48.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint66" type="normal" value="49">
+    <navLabel><text>49</text></navLabel>
+    <content src="../Kybalion-49.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint67" type="normal" value="50">
+    <navLabel><text>50</text></navLabel>
+    <content src="../Kybalion-50.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint68" type="normal" value="51">
+    <navLabel><text>51</text></navLabel>
+    <content src="../Kybalion-51.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint69" type="normal" value="52">
+    <navLabel><text>52</text></navLabel>
+    <content src="../Kybalion-52.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint70" type="normal" value="53">
+    <navLabel><text>53</text></navLabel>
+    <content src="../Kybalion-53.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint71" type="normal" value="54">
+    <navLabel><text>54</text></navLabel>
+    <content src="../Kybalion-54.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint72" type="normal" value="55">
+    <navLabel><text>55</text></navLabel>
+    <content src="../Kybalion-55.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint73" type="normal" value="56">
+    <navLabel><text>56</text></navLabel>
+    <content src="../Kybalion-56.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint74" type="normal" value="57">
+    <navLabel><text>57</text></navLabel>
+    <content src="../Kybalion-57.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint75" type="normal" value="58">
+    <navLabel><text>58</text></navLabel>
+    <content src="../Kybalion-58.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint76" type="normal" value="59">
+    <navLabel><text>59</text></navLabel>
+    <content src="../Kybalion-59.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint77" type="normal" value="60">
+    <navLabel><text>60</text></navLabel>
+    <content src="../Kybalion-60.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint78" type="normal" value="61">
+    <navLabel><text>61</text></navLabel>
+    <content src="../Kybalion-61.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint79" type="normal" value="62">
+    <navLabel><text>62</text></navLabel>
+    <content src="../Kybalion-62.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint80" type="normal" value="63">
+    <navLabel><text>63</text></navLabel>
+    <content src="../Kybalion-63.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint81" type="normal" value="64">
+    <navLabel><text>64</text></navLabel>
+    <content src="../Kybalion-64.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint82" type="normal" value="65">
+    <navLabel><text>65</text></navLabel>
+    <content src="../Kybalion-65.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint83" type="normal" value="66">
+    <navLabel><text>66</text></navLabel>
+    <content src="../Kybalion-66.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint84" type="normal" value="67">
+    <navLabel><text>67</text></navLabel>
+    <content src="../Kybalion-67.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint85" type="normal" value="68">
+    <navLabel><text>68</text></navLabel>
+    <content src="../Kybalion-68.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint86" type="normal" value="69">
+    <navLabel><text>69</text></navLabel>
+    <content src="../Kybalion-69.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint87" type="normal" value="70">
+    <navLabel><text>70</text></navLabel>
+    <content src="../Kybalion-70.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint88" type="normal" value="71">
+    <navLabel><text>71</text></navLabel>
+    <content src="../Kybalion-71.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint89" type="normal" value="72">
+    <navLabel><text>72</text></navLabel>
+    <content src="../Kybalion-72.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint90" type="normal" value="73">
+    <navLabel><text>73</text></navLabel>
+    <content src="../Kybalion-73.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint91" type="normal" value="74">
+    <navLabel><text>74</text></navLabel>
+    <content src="../Kybalion-74.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint92" type="normal" value="75">
+    <navLabel><text>75</text></navLabel>
+    <content src="../Kybalion-75.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint93" type="normal" value="76">
+    <navLabel><text>76</text></navLabel>
+    <content src="../Kybalion-76.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint94" type="normal" value="77">
+    <navLabel><text>77</text></navLabel>
+    <content src="../Kybalion-77.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint95" type="normal" value="78">
+    <navLabel><text>78</text></navLabel>
+    <content src="../Kybalion-78.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint96" type="normal" value="79">
+    <navLabel><text>79</text></navLabel>
+    <content src="../Kybalion-79.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint97" type="normal" value="80">
+    <navLabel><text>80</text></navLabel>
+    <content src="../Kybalion-80.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint98" type="normal" value="81">
+    <navLabel><text>81</text></navLabel>
+    <content src="../Kybalion-81.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint99" type="normal" value="82">
+    <navLabel><text>82</text></navLabel>
+    <content src="../Kybalion-82.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint100" type="normal" value="83">
+    <navLabel><text>83</text></navLabel>
+    <content src="../Kybalion-83.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint101" type="normal" value="84">
+    <navLabel><text>84</text></navLabel>
+    <content src="../Kybalion-84.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint102" type="normal" value="85">
+    <navLabel><text>85</text></navLabel>
+    <content src="../Kybalion-85.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint103" type="normal" value="86">
+    <navLabel><text>86</text></navLabel>
+    <content src="../Kybalion-86.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint104" type="normal" value="87">
+    <navLabel><text>87</text></navLabel>
+    <content src="../Kybalion-87.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint105" type="normal" value="88">
+    <navLabel><text>88</text></navLabel>
+    <content src="../Kybalion-88.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint106" type="normal" value="89">
+    <navLabel><text>89</text></navLabel>
+    <content src="../Kybalion-89.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint107" type="normal" value="90">
+    <navLabel><text>90</text></navLabel>
+    <content src="../Kybalion-90.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint108" type="normal" value="91">
+    <navLabel><text>91</text></navLabel>
+    <content src="../Kybalion-91.xhtml" />
+  </pageTarget>
+  <pageTarget id="navPoint109" type="normal" value="92">
+    <navLabel><text>92</text></navLabel>
+    <content src="../Kybalion-92.xhtml" />
+  </pageTarget>
+</pageList>
+</ncx>
